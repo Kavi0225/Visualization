@@ -19,3 +19,6 @@ def petrol_price():
     plt.legend()
     plt.show()
 print(petrol_price())
+
+
+
